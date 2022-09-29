@@ -1,0 +1,9 @@
+.sidebar-item {
+    color: rgb(204, 204, 204);
+    transition: .5s;
+}
+
+.sidebar-item:hover {
+    color: white;
+    transition-duration: .5s;
+}
